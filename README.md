@@ -1,7 +1,14 @@
 [jQuery Camera Plugin] - Simple camera snapshot
 ================================
 
+The jQuery Camera Plugin provides a snapshot camera for your application. You can set resolution eg. "HD", "VGA", "QVGA".
+
 ## [Help the project](http://pledgie.com/campaigns/21928)
+
+[![Help the project](http://www.pledgie.com/campaigns/21928.png?skin_name=chrome)](http://pledgie.com/campaigns/21928)
+
+This project is looking for help! [You can donate to the ongoing pledgie campaign](http://pledgie.com/campaigns/21928)
+and help spread the word. If you've used the plugin, or plan to use, consider a donation - any amount will help.
 
 ## Getting Started
 Include jQuery and the plugin on a page. Then select a form to camera and call the `cameara` method.
@@ -33,6 +40,12 @@ Include jQuery and the plugin on a page. Then select a form to camera and call t
   </body>
 </html>
 ```
+
+## Reporting an Issue
+
+1. Make sure the problem you're addressing is reproducible.
+2. Use http://jsbin.com or http://jsfiddle.net to provide a test page.
+3. What version of the plug-in is the issue reproducible in. Is it reproducible after updating to the latest version.
 
 ## License
 Copyright (c) 2013 Sakol Assawasagool
