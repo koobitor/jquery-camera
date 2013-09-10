@@ -1,4 +1,4 @@
-[jQuery Camera Plugin] - Simple camera snapshot
+[jQuery Camera Plugin] - Simple camera snapshot using HTML5!
 ================================
 
 The jQuery Camera Plugin provides a snapshot camera for your application. You can set resolution eg. "HD", "VGA", "QVGA".
