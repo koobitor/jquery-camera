@@ -1,0 +1,37 @@
+#camera-img, #camera-video {
+  width: 640px;
+  height: 360px;
+}
+
+#camera-img, #camera-canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: none;
+}
+
+#camera-video {
+  background: rgba(0,0,0,0.25);
+}
+
+#camera-take, #camera-retake {
+  position: absolute;
+  left: 47%;
+  bottom: 20px;
+  cursor: pointer;
+  border: 3px solid #fff;
+  border-radius: 50%;
+  background: #888;
+  width: 40px;
+  padding: 3px;
+  height: 40px;
+}
+
+#camera-take img, #camera-retake img {
+  width: 30px;
+  margin: 3px 0 0 5px;
+}
+
+#camera-retake {
+  display: none;
+}

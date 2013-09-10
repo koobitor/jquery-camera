@@ -1,0 +1,29 @@
+{
+  "name": "camera",
+  "title": "jQuery Camera",
+  "description": "",
+  "keywords": [
+    "camera",
+    "html5",
+    "snapshot"
+  ],
+  "version": "0.1.0",
+  "author": {
+    "name": "koobitor 7republic",
+    "email": "tor@7republic.com",
+    "url": "http://7republic.com"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "bugs": "https://github.com/koobitor/jquery-validation/issues",
+  "homepage": "https://github.com/koobitor/jquery-camera",
+  "docs": "http://docs.jquery.com/Plugins/Camera",
+  "download": "https://github.com/koobitor/jquery-camera",
+  "dependencies": {
+    "jquery": ">=1.4.4"
+  }
+}
