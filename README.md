@@ -12,6 +12,7 @@ and help spread the word. If you've used the plugin, or plan to use, consider a 
 
 ## Getting Started
 Include jQuery and the plugin on a page. Then select a form to camera and call the `cameara` method.
+You must run this on localhost or web server.
 
 ```html
 <!DOCTYPE html>
